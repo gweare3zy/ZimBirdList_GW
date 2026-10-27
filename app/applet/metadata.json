@@ -1,0 +1,6 @@
+{
+  "name": "Zim Bird Checklist",
+  "description": "Offline bird checklist and field trip recorder for Zimbabwe with PDF report exports",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

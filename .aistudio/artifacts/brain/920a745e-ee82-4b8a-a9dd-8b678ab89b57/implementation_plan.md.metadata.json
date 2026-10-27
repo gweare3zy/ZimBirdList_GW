@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for the Zimbabwe Bird Checklist & Trip Recorder Android app with Room local offline persistence, bird searching and seen logging, trip management, and PDF report export.",
+  "updatedAt":  "2026-10-11T15:55:29.663402861Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
